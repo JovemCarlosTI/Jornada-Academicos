@@ -1,0 +1,28 @@
+@media (max-width: 900px) {
+  button#cadastrar, button#login {
+    border-radius: 16px;
+    padding: 0% 5%;
+
+    height: 50px;
+  }
+
+
+}
+
+@media (max-width: 450px) {
+  div img.avatar {
+    height: 5em;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+}
